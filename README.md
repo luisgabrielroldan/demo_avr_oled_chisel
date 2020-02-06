@@ -1,4 +1,4 @@
-# Demo AVR+OLED+Chisel
+# Demo [AVR](https://github.com/luisgabrielroldan/avr) + [OLED](https://github.com/pappersverk/oled) + [Chisel](https://github.com/luisgabrielroldan/chisel)
 
 An example of how to create a symbiosis beetween Nerves and Arduino using [AVR](https://github.com/luisgabrielroldan/avr).
 
